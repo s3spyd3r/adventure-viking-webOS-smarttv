@@ -1,0 +1,10 @@
+{
+    "vendor": "Filipe Rodrigues",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.filiperodrigues.adventureviking",
+    "title": "Adventure Viking",
+    "type": "web",
+    "version": "1.0.0"
+}
