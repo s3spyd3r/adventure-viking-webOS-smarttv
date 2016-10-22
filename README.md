@@ -7,11 +7,11 @@ They roll, but need your help to make it home!
 Eliminate obstacles and solve puzzles in 30 levels of medieval gravity!
 
 # App Overview
-![Main](http://www.rodriguesfilipe.net/img/webOS1.png)
+![Main](http://www.rodriguesfilipe.net/img/webOS1.jpg)
 
-![Levels](http://www.rodriguesfilipe.net/img/webOS2.png)
+![Levels](http://www.rodriguesfilipe.net/img/webOS2.jpg)
 
-![Game](http://www.rodriguesfilipe.net/img/webOS3.png)
+![Game](http://www.rodriguesfilipe.net/img/webOS3.jpg)
 
 NOTE: Currently, only Pointer Devices controls are supported (Smart Control or Mouse).
 
